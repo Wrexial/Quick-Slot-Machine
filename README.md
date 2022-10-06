@@ -1,1 +1,1 @@
-# QuickTest
+# Quick Slot Machine in PixieJS
